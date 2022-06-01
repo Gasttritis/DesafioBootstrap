@@ -1,14 +1,31 @@
-/* Global */
-* {
-    
+@font-face {
+    font-family: 'minecraftfont';
+    src: url('../fonts/minecraftfont/minecraftfont.eot');
+    src: local('minecraftfont'), url('../fonts/minecraftfont/minecraftfont.woff') format('woff'), url('../fonts/minecraftfont/minecraftfont.ttf') format('truetype');
 }
+
+/* 
+font-family: 'minecraftfont';
+font-family: 'Minecraft', sans-serif;
+font-family: 'Minecrafter', sans-serif;
+font-family: 'Minecrafter Alt', sans-serif;
+font-family: 'Minecraftia', sans-serif; 400 700
+*/
+
+/* Global */
+
 
 body {
     background-color: #2c5a32;
+    font-family: 'Minecraftia', sans-serif;
 }
 
 /* index */
-
+.imgdownanim:hover{
+    -webkit-transform:scale(1.03);
+    transform:scale(1.03);
+    transition: transform 0.3s
+}
 
 .card-mod{
     border: none;
