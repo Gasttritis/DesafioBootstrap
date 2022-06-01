@@ -39,6 +39,25 @@ footer{
 
 .card-mod{
     border: none;
+    background-color: rgba(0,0,0, 0.4);
+}
+
+.col-mod{
+    padding: 24px;
 }
 
 /* pages */
+
+.pg-text {
+    padding: 20px;
+}
+
+.pg-text ol{
+    list-style: none;
+}
+
+.images-textures div img{
+    width: 100%;
+    padding: 5px;
+}
+
