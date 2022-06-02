@@ -46,6 +46,13 @@ footer{
     padding: 24px;
 }
 
+.offcanvas-header-mod{
+    background-color: #212529;
+}
+.offcanvas-body-mod{
+    background-color: #212529;
+}
+
 /* pages */
 
 .pg-text {
