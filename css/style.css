@@ -68,3 +68,19 @@ footer{
     padding: 5px;
 }
 
+.btnDown {
+    color: white;
+    padding: 14px;
+    background-color: rgb(31, 143, 31);
+    border: inset 8px green;
+    text-decoration: none;
+    font-family: 'Minecraftia', sans-serif;
+}
+
+.video{
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+    border-style:none;
+    margin-top: 16px;
+}
