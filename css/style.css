@@ -53,6 +53,15 @@ footer{
     background-color: #212529;
 }
 
+.offcanvas-body-mod h4{
+    padding-bottom: 12px;
+    color: white;
+}
+.offcanvas-body-mod ul li a{
+    text-decoration: none;
+    color: rgb(199, 195, 195);
+}
+
 /* pages */
 
 .pg-text {
